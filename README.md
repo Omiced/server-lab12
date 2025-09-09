@@ -60,4 +60,4 @@ Esta API solo contara con un endpoint al cual puedes acceder usando la siguiente
 
 ## Recursos útiles
 
-[Documentaci[on json-server](https://www.npmjs.com/package/json-server)
+[Documentación json-server](https://www.npmjs.com/package/json-server)
