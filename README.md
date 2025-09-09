@@ -58,4 +58,6 @@ Esta API solo contara con un endpoint al cual puedes acceder usando la siguiente
 
 **No cerrar la terminal ni el proceso del json-server mientras haces la actividad.**
 
+## Recursos útiles
 
+[Documentaci[on json-server](https://www.npmjs.com/package/json-server)
